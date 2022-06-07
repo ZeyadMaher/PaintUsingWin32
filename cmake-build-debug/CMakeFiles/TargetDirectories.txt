@@ -1,0 +1,3 @@
+C:/Users/citymall/Downloads/GraphicsProject/GraphicsProject/cmake-build-debug/CMakeFiles/GraphicsProject.dir
+C:/Users/citymall/Downloads/GraphicsProject/GraphicsProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/citymall/Downloads/GraphicsProject/GraphicsProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
